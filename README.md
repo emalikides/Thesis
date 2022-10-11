@@ -2,6 +2,8 @@
 Thesis for Honours year at ANU,
 in which a new configuration for an optical phased array (real world death-star) was experimentally demonstrated.
 
+![architecture](arch.png)
+
 This resulted in [this](https://opg.optica.org/ao/abstract.cfm?uri=ao-53-22-4881) publication.
 
 Includes: 
