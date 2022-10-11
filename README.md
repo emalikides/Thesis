@@ -20,6 +20,6 @@ What happened (it worked well!)
 - more detailed calculations and code.
 
 # Exerpts
-
+![Visuals from model](p_24.png)
 ![pointing angle derivation](p_72.png)
 ![pointing angle derivation](p_73.png)
