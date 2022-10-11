@@ -17,10 +17,10 @@ This resulted in [this](https://opg.optica.org/ao/abstract.cfm?uri=ao-53-22-4881
   + Description of innovation involving new method for extracting phase signal using coded dithering.
 - **6 Experimental Setup and Results**
   + Successful noise cancellation.
+- **Appendices**
+  + more detailed calculations and code.
 
 ![controller](p_42.png)
-## Appendices
-- more detailed calculations and code.
 
 # Exerpts
 Sample calculation and use of model:
