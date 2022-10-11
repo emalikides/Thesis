@@ -1,5 +1,5 @@
 # Thesis
-Thesis for Honours year at ANU,
+[My Thesis](https://github.com/emalikides/Thesis/blob/main/Honours_thesis_Emmanuel_Malikides.pdf) for Honours year at ANU,
 in which a new configuration for an optical phased array (real world death-star) was experimentally demonstrated.
 
 ![architecture](arch.png)
