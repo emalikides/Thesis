@@ -16,6 +16,7 @@ Design of digital controller/noise suppression algorithm with reference to conve
 Description of innovation involving new method for extracting phase signal using coded dithering.
 ## 6 Experimental Setup and Results
 What happened (it worked well!)
+![controller](p_42.png)
 ## Appendices
 - more detailed calculations and code.
 
