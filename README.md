@@ -22,3 +22,4 @@ What happened (it worked well!)
 # Exerpts
 
 ![pointing angle derivation](p_72.png)
+![pointing angle derivation](p_73.png)
