@@ -15,12 +15,15 @@ Design of digital controller/noise suppression algorithm with reference to conve
 ## 5 CDMA-based Digital Interferometry
 Description of innovation involving new method for extracting phase signal using coded dithering.
 ## 6 Experimental Setup and Results
-What happened (it worked well!)
+Successful noise cancellation.
+
 ![controller](p_42.png)
 ## Appendices
 - more detailed calculations and code.
 
 # Exerpts
+Sample calculation and use of model:
+
 ![Visuals from model](p_24.png)
 ![pointing angle derivation](p_72.png)
 ![pointing angle derivation](p_73.png)
