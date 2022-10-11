@@ -19,3 +19,6 @@ What happened (it worked well!)
 ## Appendices
 - more detailed calculations and code.
 
+# Exerpts
+
+![pointing angle derivation](p_72.png)
